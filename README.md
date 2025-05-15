@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @Mancini-Developer80
-- 👀 I’m interested in Python Django backend development, Vanillafrontend BootstrapCSSLibrary and graphic design.
-- 🌱 I’m currently learning REACT and node.js and PythonPandas. I will soon learn Flask so I can use Python in a wide range of field. 
-- 💞️ I’m looking to collaborate on projects aimt at supporting remote cooperation, matching complementary skills and supporting the digital presence of enterprises.
-- 📫 You can send me an email at giuseppe.mancini80@gmail.com if you need someone to share ideas, projects and a Django developer. I can use Photoshop, Illustrator, InDesign and I love spreadsheets.
+- 🚀 Passionate about full-stack development, I have experience building applications with React and Angular, leveraging both frameworks to create dynamic and efficient front-end solutions. On the backend, I work 
+  with Node.js and Django, enabling scalable and robust application architectures. Additionally, I enjoy graphic design and digital content creation, combining aesthetics with functionality to craft engaging user 
+  experiences.
+- 🌱 Continuously growing and refining my skills—I have expanded my expertise with React, Angular, Node.js, and Django, building dynamic and scalable applications. Next, I’m eager to dive into Next.js, Vue, and 
+  Flask, further strengthening my capabilities in front-end and back-end development while exploring new approaches to modern web architecture. 
+- 💞️ Excited to collaborate I’m eager to contribute to projects that support remote cooperation, foster skill matching, and enhance the digital presence of enterprises.
+- 📫 Let's connect! Feel free to reach out via email at giuseppe.mancini80@gmail.com—whether to exchange ideas, collaborate on projects, or explore Django development opportunities. I also have experience with 
+  Photoshop, Illustrator, InDesign, and I love working with spreadsheets!
 - 😄 Pronouns: He
-- ⚡ Fun fact: I am an enthusiast of web development and digital graphics. My purpose is to have a creative and independent life in the professional field and make a living from the activities I am most passionate about. I love writing content for the web and initiating connections with people everywhere who have similar interests and complementary skills to mine.
+- ⚡ Fun fact: I’m passionate about web development and digital graphics, aiming to build a creative and independent career doing what I love. Writing content, connecting with like-minded professionals, and working 
+  on innovative projects drive me forward.
 
 <!---
 Mancini-Developer80/Mancini-Developer80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
